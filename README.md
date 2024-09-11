@@ -9,4 +9,4 @@ Game Logic: Random choices made by the computer and game outcome evaluation.
 
 Demo
 You can play the game here.
-https://meek-cendol-7055eb.netlify.app/
+https://rock-paper-scissors7055eb.netlify.app/
